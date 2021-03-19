@@ -1,6 +1,6 @@
 {
   "name": "@sushiswap/interface",
-  "description": "SushiSwap Interface",
+  "description": "BNB Swap",
   "homepage": ".",
   "private": true,
   "devDependencies": {
